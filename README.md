@@ -21,7 +21,7 @@
 
 ## Key figures (EDA + diagnostics)
 
-![Correlation heatmap](figures/correlation_heatmap.png)
+![Correlation heatmap](figures/Figure_04.png)
 
 ![Residuals vs fitted](figures/residuals_vs_fitted.png)
 
