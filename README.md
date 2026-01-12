@@ -21,7 +21,7 @@
 
 ## Key figures (EDA + diagnostics)
 <p align="center">
-<img src="figures/Figure_04.png)" width="700">
+<img src="figures/Figure_04.png" width="700">
 <br>
 <img src="figures/residuals_vs_fitted.png" width="700">
 <br>
