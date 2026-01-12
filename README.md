@@ -20,13 +20,13 @@
 ---
 
 ## Key figures (EDA + diagnostics)
-
-![Correlation heatmap](figures/Figure_04.png)
-
-![Residuals vs fitted](figures/residuals_vs_fitted.png)
-
-![Cook's distance](figures/cooks_distance.png)
-
+<p align="center">
+<img src="figures/Figure_04.png)" width="700">
+<br>
+<img src="figures/residuals_vs_fitted.png" width="700">
+<br>
+<img src="figures/cooks_distance.png" width="700">
+</p>p
 ---
 
 ## Notebooks
