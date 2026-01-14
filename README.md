@@ -1,7 +1,7 @@
 # Improving CAII pIC50 baselines (ChEMBL205): multivariate and extended linear models
 
 This repository is a direct continuation of **Project 1 (AlogP-only OLS baseline)**:  
-➡️ **Project 1 repo:** https://github.com/Epitectus2223/chembl-ca2-pic50-alogp
+**Project 1 repo:** https://github.com/Epitectus2223/chembl-ca2-pic50-alogp
 
 In Project 1, we established an honest baseline and showed that **AlogP alone** carries no useful linear signal for predicting **CAII pIC50**. Here, we build on that baseline and run two follow-up experiments on the same curated CAII dataset (**n = 543**) to test whether adding information and mild transformations improves explanatory power:
 
