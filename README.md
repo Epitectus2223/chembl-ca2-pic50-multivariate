@@ -95,13 +95,13 @@ This sub-study evaluates whether simple transformations can capture mild non-lin
 > Add your diagnostic plots in `figures/` and link them here.
 
 **Pairplot**  
-  !figures/pairplot.png
+![Pairplot](figures/pairplot.png)
 
 **Normal Q–Q plot (residuals)**  
-  !figures/qqplot.png
+![Q-Q plot](figures/qqplot.png)
 
 **Cook’s Distance (influence)**  
-  !figures/cooks_distance.png
+![Cook's Distance](figures/cooks_distance.png)
 
 ---
 
