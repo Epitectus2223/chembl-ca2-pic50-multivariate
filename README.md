@@ -14,8 +14,6 @@ In Project 1, we established an honest baseline and showed that **AlogP alone** 
 
 ## Summary
 
----
-
 ## P2 — Multivariate OLS (AlogP + MW)
 
 ### Model
