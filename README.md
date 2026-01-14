@@ -126,8 +126,8 @@ This sub-study evaluates whether simple transformations can capture mild non-lin
 ---
 
 ## Tools used
-- **Python**: `pandas`, `statsmodels`, `matplotlib`, `scipy`
-- **R**: `lm()`, `tidyverse`
+- **Python**: `pandas`, `statsmodels`, `matplotlib`, `scipy`, `numpy`, `matplotlib`, `seaborn`, `scipy`
+- **R**: `GGally`, `readr`, `dplyr`, `lm(test)`, `tidyverse`
 - **Excel**: regression sanity checks
 - **ChEMBL**: bioactivity data source
 
