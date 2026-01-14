@@ -94,14 +94,14 @@ This sub-study evaluates whether simple transformations can capture mild non-lin
 ## Key plots P2
 > Add your diagnostic plots in `figures/` and link them here.
 
-- Residuals vs fitted  
-  figures/p2_residuals_vs_fitted.png
+- Pairplot  
+  figures/pairplot.png
 
 - Normal Q–Q plot (residuals)  
-  figures/p2_qqplot.png
+  figures/qqplot.png
 
 - Cook’s Distance (influence)  
-  figures/p2_cooks_distance.png
+  figures/cooks_distance.png
 
 ---
 
